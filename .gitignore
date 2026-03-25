@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Resultados de escaneo
+scan_results/
+logs/
+*.log
+
+# Archivos temporales
+*.tmp
+.temp/
+
+# Variables de entorno
+.env
+.env.local
